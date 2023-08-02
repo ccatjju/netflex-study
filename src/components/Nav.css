@@ -1,0 +1,41 @@
+.Nav {
+  position: fixed;
+  top: 0;
+  z-index: 1;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+  width: 100%;
+  height: 40px;
+  transition-timing-function: ease-in;
+  transition: all 0.5s;
+}
+
+.Nav_change {
+  background-color: rgb(9, 9, 9);
+}
+
+.Nav_logo {
+  width: 5%;
+  object-fit: contain;
+}
+
+.Nav_avatar {
+  position: fixed;
+  right: 20px;
+  width: 4%;
+  /* height: 7%; */
+  object-fit: contain;
+}
+
+.Nav_input {
+  position: fixed;
+  left: 50%;
+  transform: translate(-50%, 0);
+  background-color: rgba(123, 123, 123, 0.414);
+  padding: 5px;
+  color: white;
+  border-radius: 5px;
+  border: none;
+}
