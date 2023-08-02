@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/netflex-study%20/static/css/main.e3d99bd0.css",
+    "main.js": "/netflex-study%20/static/js/main.ce1c4207.js",
+    "static/js/787.b301b4a5.chunk.js": "/netflex-study%20/static/js/787.b301b4a5.chunk.js",
+    "index.html": "/netflex-study%20/index.html",
+    "main.e3d99bd0.css.map": "/netflex-study%20/static/css/main.e3d99bd0.css.map",
+    "main.ce1c4207.js.map": "/netflex-study%20/static/js/main.ce1c4207.js.map",
+    "787.b301b4a5.chunk.js.map": "/netflex-study%20/static/js/787.b301b4a5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e3d99bd0.css",
+    "static/js/main.ce1c4207.js"
+  ]
+}
