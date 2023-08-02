@@ -2,7 +2,7 @@
   "name": "netflex",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ccatjju.github.io/netflex-study ",
+  "homepage": "https://ccatjju.github.io/netflex-study",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
